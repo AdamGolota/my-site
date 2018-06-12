@@ -1,0 +1,17 @@
+{
+  "name": "golota",
+  "version": "1.0.0",
+  "description": "Personal website of Adam Golota",
+  "main": "server.js",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Adam Golota",
+  "license": "ISC"
+}
